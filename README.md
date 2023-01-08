@@ -4,13 +4,15 @@ Creación y consultas de una base de datos de una Academia
 </br>
 # Instalar:
 	- MySQL Workbench
-	- Python - JupiterNotbook
+	- Python
+	- JupiterNotebook
 
 # Archivos necesarios:
 	- practica_academia.sql
 	- carga_datos.ipynb
 	- querys_academia.ipynb
 	- consultas_academia.sql
+	- datos.xlsx
 	
 
 # Pasos a ejecutar:
